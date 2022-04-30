@@ -1,2 +1,1 @@
-# paperd.ink_mech
-Enclosure files for paperd.ink
+# paperd.ink Enclosure files
